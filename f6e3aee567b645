@@ -1,0 +1,33 @@
+[33mcommit b3cc5345ca151ce3e0b5d685aaeaa877f7e8ff05[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: karthik <itsmekarthik1999@gmail.com>
+Date:   Thu Dec 14 15:13:13 2023 +0530
+
+    3 functions
+
+[33mcommit 75fba43ba1bb72e99f8aee5c6c846378268cebc9[m
+Author: karthik <itsmekarthik1999@gmail.com>
+Date:   Thu Dec 14 15:11:37 2023 +0530
+
+    2 functions
+
+[33mcommit 4d712c5c7e1469a587af23442bd706fe220afd50[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: karthik <itsmekarthik1999@gmail.com>
+Date:   Thu Dec 14 14:56:42 2023 +0530
+
+    sample page with 3 function
+
+[33mcommit f6e3aee567b6459645dc6e0108255942aee74c5c[m
+Author: karthik <itsmekarthik1999@gmail.com>
+Date:   Thu Dec 14 14:51:34 2023 +0530
+
+    Revert "sample page"
+    
+    This reverts commit 0e3458aee8d280938eb98e6c4b823ee6d5023581.
+    
+            deleted:    index.html.txt
+
+[33mcommit 0e3458aee8d280938eb98e6c4b823ee6d5023581[m
+Author: karthik <itsmekarthik1999@gmail.com>
+Date:   Thu Dec 14 14:49:06 2023 +0530
+
+    sample page
